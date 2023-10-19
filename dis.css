@@ -1,0 +1,17 @@
+.navbar{
+    height: 50px;
+    
+}
+  .navbar a {
+    color: #76b674;
+    margin-block-end: -8px;
+    margin-block-start: -11px;
+}
+#btn1{
+  color: #141414;
+  background-color: rgb(252, 252, 252);
+  border-color: rgb(0, 0, 0);
+ 
+  
+}
+

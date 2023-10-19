@@ -1,0 +1,42 @@
+body{
+    background-image: url(img4.jpeg);
+    background-size: cover;
+    
+}
+.navbar{
+    height: 50px;
+    
+}
+  .navbar a {
+    color: #76b674;
+    margin-block-end: -8px;
+    margin-block-start: -11px;
+}
+form{
+    height: 35px;
+} 
+#form1{
+    width:20cm;
+    margin-block-start: 140px;
+    padding-left: 500px;
+    color: rgb(242, 255, 249);
+}
+form a{
+    margin-right: 3.5cm;
+    color: aliceblue;
+}
+#btn1{
+    margin-left: 2.4cm;
+    margin-block-start:8px;
+    color: black;
+    background-color: rgb(212, 164, 152);
+    border-color: rgb(212, 164, 152) ;
+    
+    
+}
+#head4{
+    text-align: center;
+    color: rgb(212, 164, 152);
+    
+    
+}

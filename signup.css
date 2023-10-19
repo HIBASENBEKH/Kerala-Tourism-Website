@@ -1,0 +1,52 @@
+body{
+    background-image: url(img3.jpg);
+    background-size: cover;
+    height: 5cm;
+    
+}
+navbar{
+    height: 50px;
+    
+}
+  .navbar a {
+    color: #76b674;
+    margin-block-end: -8px;
+    margin-block-start: -11px;
+}
+
+#form1{
+    width:22cm;
+    margin-block-start: 30px;
+    margin-left: 1cm;
+    padding-left: 400px;
+    color: rgb(242, 255, 249);
+}
+form a{
+    margin-left: 0.8cm;
+    color: rgb(251, 253, 255);
+    
+}
+#btn1{
+    width: 10.4cm;
+    margin-left: 0.5cm;
+    color: #b3bbc0;
+    background-color: #173a4e;
+    border-color: #173a4e;
+    margin-block-start:8px;
+    margin-block-end: 10px;
+    }
+    #label1{
+        width:12cm;
+    }
+#head4{
+    text-align: center;
+    color: #173a4e;
+    margin-right:0.6cm ;
+    
+}
+#exampleCheck1{
+    margin-left: 0.5cm;
+}
+#para1{
+    margin-left: 0.8cm;
+}
